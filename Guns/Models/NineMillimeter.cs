@@ -7,10 +7,9 @@ namespace Guns.Models
 {
     class NineMillimeter : IWeapon
     {
-        public string type = "Pistol";
-        public void Fire(string who)
+        public void Fire()
         {
-            Console.WriteLine($"{who} is handling a {type} firing 50 meters range.");
+            Console.WriteLine("Firing 50 meters range.");
         }
     }
 }

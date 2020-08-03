@@ -1,26 +1,19 @@
 ﻿using Guns.Interfaces;
-using System;
+
 
 namespace Guns.Models
 {
     class Soldier
     {
-       public string Name { get; set; }
-       private IWeapon _weapon;
-       
+        private IWeapon weapon;
 
-        public Soldier()
+        public Soldier(IWeapon weapon)
         {
-
+            this.weapon = weapon;
         }
-        public IWeapon Weapon
+        public void Attack()
         {
-            set { this._weapon = value; }  
+            this.weapon.Fire();
         }
-        public void Attack(string who)
-        {
-            this._weapon.Fire(who);
-        }
-
     }
 }

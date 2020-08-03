@@ -7,11 +7,9 @@ namespace Guns.Models
 {
     class Riffle : IWeapon
     {
-
-        public string type = "Riffle";
-        public void Fire(string who)
+        public void Fire()
         {
-            Console.WriteLine($"{who} is handling a {type} which fires 4 rounds per second.");
+            Console.WriteLine("Firing 4 rounds per second.");
         }
     }
 }
