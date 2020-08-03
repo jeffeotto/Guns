@@ -7,10 +7,10 @@ namespace Guns.Models
 {
     class Cannon : IWeapon
     {
-     
+        public string type = "Cannon";
         public void Fire(string who)
         {
-            Console.WriteLine($"{who}Firing 3km range.");
+            Console.WriteLine($"{who } is firing a {type} with 3km range.");
         }
     }
 }
