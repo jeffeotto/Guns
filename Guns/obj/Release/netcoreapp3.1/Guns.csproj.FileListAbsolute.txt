@@ -1,0 +1,12 @@
+C:\Users\jeffeotto\source\repos\Guns\Guns\bin\Release\netcoreapp3.1\Guns.exe
+C:\Users\jeffeotto\source\repos\Guns\Guns\bin\Release\netcoreapp3.1\Guns.deps.json
+C:\Users\jeffeotto\source\repos\Guns\Guns\bin\Release\netcoreapp3.1\Guns.runtimeconfig.json
+C:\Users\jeffeotto\source\repos\Guns\Guns\bin\Release\netcoreapp3.1\Guns.runtimeconfig.dev.json
+C:\Users\jeffeotto\source\repos\Guns\Guns\bin\Release\netcoreapp3.1\Guns.dll
+C:\Users\jeffeotto\source\repos\Guns\Guns\bin\Release\netcoreapp3.1\Guns.pdb
+C:\Users\jeffeotto\source\repos\Guns\Guns\obj\Release\netcoreapp3.1\Guns.AssemblyInfoInputs.cache
+C:\Users\jeffeotto\source\repos\Guns\Guns\obj\Release\netcoreapp3.1\Guns.AssemblyInfo.cs
+C:\Users\jeffeotto\source\repos\Guns\Guns\obj\Release\netcoreapp3.1\Guns.csproj.CoreCompileInputs.cache
+C:\Users\jeffeotto\source\repos\Guns\Guns\obj\Release\netcoreapp3.1\Guns.dll
+C:\Users\jeffeotto\source\repos\Guns\Guns\obj\Release\netcoreapp3.1\Guns.pdb
+C:\Users\jeffeotto\source\repos\Guns\Guns\obj\Release\netcoreapp3.1\Guns.genruntimeconfig.cache

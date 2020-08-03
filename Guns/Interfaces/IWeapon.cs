@@ -6,6 +6,6 @@ namespace Guns.Interfaces
 {
     interface IWeapon
     {
-        void Fire();
+        void Fire(string who);
     }
 }

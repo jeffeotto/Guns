@@ -5,11 +5,14 @@ using System.Text;
 
 namespace Guns.Models
 {
-    class MachineGun : IWeapon
+    public class MachineGun : IWeapon
     {
-        public void Fire()
+    
+         public string type = "MachineGun";
+
+        public void Fire(string who)
         {
-            Console.WriteLine("Firing 100 rounds per second.");
+            Console.WriteLine($"{who} is handling a {type} which fires 100 rounds per second.");
         }
     }
 }
